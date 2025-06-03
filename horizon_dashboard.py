@@ -515,7 +515,7 @@ def main():
         countries = st.multiselect(
             "Select Countries",
             options=proj_df['CountryName'].unique(),
-            default=['Germany', 'France', 'Spain', 'Italy'],
+            default=['Germany', 'France', 'Spain', 'Italy', 'Poland'],
             help="Filter by participating countries"
         )
 
