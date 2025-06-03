@@ -4,10 +4,6 @@ numpy
 networkx
 plotly
 prophet
-wordcloud
-matplotlib
-pyvis
-altair
-st-aggrid
-streamlit-extras
+statsmodels
 scikit-learn
+duckdb
