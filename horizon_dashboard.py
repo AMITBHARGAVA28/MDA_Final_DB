@@ -523,7 +523,7 @@ def main():
         funding_cats = st.multiselect(
             "Funding Categories",
             options=proj_df['fundingCategory'].unique(),
-            default=['ERC', 'MSCA', 'RIA / IA'],
+            default=['PCP / PPI', 'COFUND / ERA-NET', 'RIA / IA'],
             help="Filter by Horizon Europe funding instruments"
         )
 
