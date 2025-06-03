@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+networkx
+plotly
+prophet
+wordcloud
+matplotlib
+pyvis
+altair
+st-aggrid
+streamlit-extras
+scikit-learn
